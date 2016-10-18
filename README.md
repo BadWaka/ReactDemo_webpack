@@ -3,7 +3,7 @@
 
 就像是Android工程使用gradle来进行项目构建一样，在前端世界里，现在最流行的工具就是webpack。
 
-而现在最流行的前端框架，分别是Google的Angular.js，Facebook的React.js，还有我们国人自己的尤雨溪尤大的Vue.js。因为最近Angular和Vue发布了2.0版本，区别较大，所以推荐学习更为稳定的React.js。
+而现在最流行的前端框架，分别是Google的Angular.js，Facebook的React.js，还有我们国人自己的尤雨溪大神的Vue.js。因为最近Angular和Vue发布了2.0版本，区别较大，所以推荐学习更为稳定的React.js。
 
 自己是阅读了以下两篇文章：
 > [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
@@ -19,6 +19,9 @@
 **使用npm时需要将终端定位到项目的根目录下**
 
 React作为Facebook全家桶的老大哥，今后肯定会使用Facebook新出的开源依赖工具[Yarn](https://github.com/yarnpkg/yarn)，推荐好奇的同学们去试（cai）试（keng）。我们还是先使用稳定的npm，毕竟依赖工具只是辅助，以后可以迁移到yarn上，重要的是代码。
+
+源码地址：https://github.com/BadWaka/ReactDemo_webpack
+如果觉得有帮助，点个star呗
 
 让我们开始吧
 
